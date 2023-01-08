@@ -1,0 +1,71 @@
+.container__post{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 1000px;
+}
+
+.content{
+    margin-top: 30px;
+}
+
+.content_disable{
+    margin-top: 30px;
+    display: none;
+}
+
+.content a{
+    color: black;
+}
+
+.content img{
+    width: 800px;
+    height: 400px;
+}
+
+.content p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.author_desc{
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+.author_desc_home{
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 13px;
+}
+
+.subscribe_bottom{
+    background-color: white;
+    height: 70px;
+    box-shadow: 0px -4px 15px rgba(50, 50, 50, 0.3)
+}
+
+.subscribe_bottom_text{
+    padding-left: 300px;
+    padding-top: 20px;
+}
+
+.paywalled h4{
+    text-align: center;
+}
+
+.paywalled button{
+    margin-left: 450px;
+    margin-bottom: 10px;
+}
+
+.paywalled{
+    background-color: white;
+    box-shadow: 0px -4px 15px rgba(50, 50, 50, 0.3)
+}
+
+.paywalled_disable{
+    background-color: white;
+    box-shadow: 0px -4px 15px rgba(50, 50, 50, 0.3);
+    display: none;
+}
